@@ -1,1 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <!--copy from google fonts-->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h1>Firefox logo</h1>
+    <img src="images/ndsu66su3x751.png" alt="My test image">
+    <p>some text</p>
+    <p>unordered list</p>
+    <ul>
+        <li>sth</li>
+        <li>sth</li>
+        <li>sth</li>
+    </ul>
+    <p>ordered list</p>
+    <ul>
+        <ol>sth</ol>
+        <ol>sth</ol>
+        <ol>sth</ol>
+    </ul>
+    <p>link <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a></p>
 
+    <button>Change user</button>
+    <script src="scripts/main.js"> </script>
+
+  </body>
+</html> 
